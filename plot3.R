@@ -1,6 +1,5 @@
 ##Exploratory Data Analysis - Project 1
 ##plot3.R
-##Madhavi Pullela
 
 ##Load the file to dataset
 data_full <- read.csv("./exdata_data_household_power_consumption/household_power_consumption.txt", header=T, sep=';', na.strings="?",  
